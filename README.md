@@ -18,7 +18,7 @@ Para aprobar la revisión:
 - Verificar F1 para el conjunto de prueba.
 - Además, debemos medir la métrica AUC-ROC y compararla con el valor F1.
 
-[Ir al Proyecto]()
+[Ir al Proyecto](https://github.com/juliocmi/DataScience/blob/main/Projects_DS/BetaBank_ML_Pro_ES.ipynb)
 
 ---
 ---
